@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Selge
 - 🌱 I’m currently learning Python, HTML, CSS
+- 🌱 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
 - 📫 My current skills: Python, HTML, CSS, SQL, Linux
 - 📫 I speak: English, Hebrew, German, Finnish, Italian, Swedish, Estonian, Russian, Ukrainian
 - 💞️ Books I have read:
