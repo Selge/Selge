@@ -7,6 +7,7 @@
       👀 1. "Python crash course" by Eric Matthes
       👀 2. "Python in One Day" by Jamie Chan
       👀 3. "Think Python" by Allen B.Downey
+      👀 4. "Invent your own computer games with Python" by Al Sweigart
 
 <!---
 Selge/Selge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
