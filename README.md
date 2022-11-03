@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Selge
 - 🌱 I’m currently learning Python, C#, GO, HTML, CSS
 - 🌱 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
-- 📫 My current skills: Python, C#, SQL, HTML, CSS, Linux
+- 📫 My current skills: Python, Django, Pygame, PyQt, C#, SQL, HTML, CSS, Linux
 - 📫 I speak: English, German, Hebrew, Finnish, Italian, Swedish, Estonian
 
 
