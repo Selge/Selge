@@ -10,7 +10,7 @@
 - 🙌 I'm open for job propositions
 - 💬 Reach out to me at **shcherbaksergei1987@aol.com**
 
-<h3 align="center"> 🧰 Languages and Tools:</h3>
+<h3 align="center"> ⚙️ Languages and Tools:</h3>
 
 
 <p align="center">
