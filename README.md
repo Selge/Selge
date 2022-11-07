@@ -19,7 +19,7 @@
 
 <h3 align="center">  ⌨️ Contact me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergei-shcherbak-906842121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Selge" height="30" width="40" /></a>   <a href="https://stackexchange.com/users/24213527/selge?tab=accounts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="stack accounts" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sergei-shcherbak-906842121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Selge" height="40" width="40" /></a>   <a href="https://stackexchange.com/users/24213527/selge?tab=accounts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="stack accounts" height="40" width="40" /></a>
 </p>
 
 <!---
