@@ -4,9 +4,9 @@
 
 <h3 align="center">What about me? 🙀😺😸</h3>
 
-- 🌱 I’m currently learning **Python, C#, Golang, HTML, CSS**
-- 🌱 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
-- 📫 I speak: English, German, Hebrew, Finnish, Italian, Swedish, Estonian
+- ⚒ I’m currently learning **Python, C#, Golang, HTML, CSS**
+- 🛠 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
+- 🎎 I speak: English, German, Hebrew, Finnish, Italian, Swedish, Estonian
 - 🙌 I'm open for job propositions
 - 💬 Reach out to me at **shcherbaksergei1987@aol.com**
 
