@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Selge</h1>
+<h3 align="center">A beginning developer</h3>
 
 <h3 align="left">What about me?</h3>
 
