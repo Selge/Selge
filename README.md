@@ -15,7 +15,7 @@
 
 <h2 align="center">  ⌨️ Contact me: </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergei-shcherbak-906842121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Selge" height="40" width="40" /></a>   <a href="https://stackexchange.com/users/24213527/selge?tab=accounts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="stack accounts" height="40" width="40" /></a> <a href="mailto:shcherbaksergei1987@aol.com" target="blank"><img align="center" src="https://github.com/Selge/Selge/blob/main/101-1013306_png-file-svg-receive-mail-icon-transparent-png.jpg" alt="mailto:" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sergei-shcherbak-906842121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Selge" height="40" width="40" /></a>   <a href="https://stackexchange.com/users/24213527/selge?tab=accounts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="stack accounts" height="40" width="40" /></a> <a href="mailto:shcherbaksergei1987@aol.com" target="blank"><img align="center" src="https://github.com/Selge/Selge/blob/main/Mail-Icon-White-on-Grey.png" alt="mailto:" height="40" width="40" /></a>
 </p>
 
 <!---
