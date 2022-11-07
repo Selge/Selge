@@ -3,7 +3,7 @@
 
 - ⚒ I’m a beginning developer. Currently learning **Python, C#, Golang, HTML, CSS**
 - 🛠 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
-- 🎎 I speak: English, German, Hebrew, Finnish, Italian, Swedish, Estonian
+- 🎎 You can speak with me in: English, German, Hebrew, Finnish, Italian, Swedish, Estonian
 - 🙌 I'm open for job propositions
 - 💬 Reach out to me at **shcherbaksergei1987@aol.com**
 
