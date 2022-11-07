@@ -2,7 +2,7 @@
 <h2 align="center">A beginning developer.</h2>
 
 
-<h2 align="center"> 🙀😺😸 What about me? </h2>
+<h3 align="center"> 🙀😺😸 What about me? </h3>
 
 - ⚒ I’m currently learning **Python, C#, Golang, HTML, CSS**
 - 🛠 I'm also interested in Linux Operation Systems (love to work with different types) and information security.
