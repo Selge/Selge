@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I’m @Selge</h1>
 <h2 align="center">🙀😺😸 What about me?</h2>
 
-- ⚒ I’m a beginning developer.
-- 🛠 I'm interested in Linux Operation Systems (love to work with different types) and information security.
-- 🎎 You can communicate with me in: English, German, Finnish, Swedish, Estonian, Italian, Hebrew.
-- 🙌 I'm open for job propositions
+  ⚒ I’m a beginning developer.
+  🛠 I'm interested in Linux Operation Systems (love to work with different types) and information security.
+  🎎 You can communicate with me in: English, German, Finnish, Swedish, Estonian, Italian, Hebrew.
+  🙌 I'm open for job propositions
 
 <h2 align="center"> ⚙️ Languages and Tools:</h2>
 
