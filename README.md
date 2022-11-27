@@ -3,7 +3,7 @@
 
   ⚒ I’m a beginning developer.
   
-  🛠 I'm interested in Linux Operation Systems (love to work with different types) and information security.
+  🛠 I'm interested in software development, Linux Operation Systems and information security.
   
   🎎 : 🇬🇧 🇩🇪
   
