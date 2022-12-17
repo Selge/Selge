@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @Selge</h1>
 <h2 align="center">🙀😺😸 What about me?</h2>
 
-  ⚒ I’m a beginning developer.
+  ⚒ I’m a Python developer.
   
   🛠 I'm interested in software development, Linux Operation Systems and information security.
   
