@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hi, I’m @Selge</h1>
 <h2 align="center">🙀😺😸 What about me?</h2>
 
-  ⚒ I’m a beginning Python developer.
+  ⚒ A beginning Python developer.
   
-  🛠 I'm interested in software development, Linux Operation Systems and information security.
+  🛠 Iinterested in software development, Linux Operation Systems and information security.
+  
+  🙌 Open for job propositions
   
   🎎 : 🇬🇧 🇩🇪
   
-  🙌 I'm open for job propositions
-
+ 
 <h2 align="center"> ⚙️ Languages and Tools:</h2>
 
 
