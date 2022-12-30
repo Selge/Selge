@@ -3,7 +3,7 @@
 
   ⚒ A beginning Python developer.
   
-  🛠 Iinterested in software development, Linux Operation Systems and information security.
+  🛠 Interested in software development, Linux Operation Systems and information security.
   
   🙌 Open for job propositions
   
