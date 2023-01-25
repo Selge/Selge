@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Selge</h1>
-<h2 align="center">🙀😺😸 What about me?</h2>
+<h2 align="center"> What about me?</h2>
 
   ⚒ Python developer.
   
