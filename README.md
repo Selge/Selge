@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hi, I’m @Selge</h2>
 <p align="left">
-  	⚒🛠 I'm a Python developer, but also love to work with other programming languages. I'm interested in software development, different operation systems and information security.<br>
+  	⚒🛠⚙️ I'm a Python developer, but also love to work with other programming languages. I'm interested in software development, different operation systems and information security.<br>
 	🎎 : 🇬🇧 🇩🇪
 </p>
 <br>
-<p align="left">⚙️: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a></p>
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a></p>
 </p>
 <br>
 <p align="left">
