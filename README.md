@@ -1,17 +1,12 @@
-<h1 align="center">👋 Hi, I’m @Selge</h1>
+<img align="left" width="160" height="160" alt="CodingCat" src="https://github.com/Selge/Selge/blob/main/kitten-cat.gif"/>
 
-  ⚒ Python developer.
-  
-  🛠 Interested in software development, different operation systems and information security.
-  
-  🙌 Open for job propositions
-  
+## 👋 Hi, I’m @Selge 
+
+  ⚒ I'm a Python developer. 🛠 I'm interested in software development, different operation systems and information security. 🙌 Open for job propositions.
   🎎 : 🇬🇧 🇩🇪
-  
+  </br>
  
 <h2 align="center"> ⚙️ Languages and Tools:</h2>
-
-
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
 </p>
