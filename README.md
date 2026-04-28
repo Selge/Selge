@@ -2,7 +2,7 @@
 <p align="left">
   	🎎 Prefer to communicate in DEUTSCH, ENGLISH <br>
 	🖥️💻 Interested in linguistics, software development, operation systems and information security.<br>
-	⚒🛠⚙️ Python: Flask, Django<br>
+	⚒🛠⚙️ Python: Flask, Django, Pygame<br>
 	⚒🛠⚙️ Ruby: Ruby on Rails<br>
 	⚒🛠⚙️ Go<br>   
 	⚒🛠⚙️ 1C<br>   
